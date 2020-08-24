@@ -2,6 +2,8 @@
 
 Now I'm working at Bytedance Ltd as a web frontend developer.
 
+掘金: [晨曦时梦见兮](https://juejin.im/user/2330620350708823) / 知乎: [晨曦时梦见兮](https://www.zhihu.com/people/dan-shi-hao-43) / 公众号: [前端从进阶到入院](https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
