@@ -1,6 +1,6 @@
 ### Hi there, I'm ssh 👋
 
-Now I'm working at Bytedance Ltd as a web frontend architect.
+Now I'm working at Bytedance Ltd as a web frontend developer.
 
 **Languages and Tools:**  
 
