@@ -2,7 +2,7 @@
 
 Now I'm working at Bytedance Ltd as a web frontend developer.
 
-掘金：[ssh](https://juejin.im/user/2330620350708823) / 知乎：[ssh](https://www.zhihu.com/people/dan-shi-hao-43) / 公众号：[前端从进阶到入院](https://user-gold-cdn.xitu.io/2020/4/5/17149cbcaa96ff26?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) / LeetCode：[ssh](https://leetcode-cn.com/u/ssh-2/)
+掘金：[ssh](https://juejin.im/user/2330620350708823) / 知乎：[ssh](https://www.zhihu.com/people/ssh-fe) / 公众号：[前端从进阶到入院](https://user-gold-cdn.xitu.io/2020/4/5/17149cbcaa96ff26?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) / LeetCode：[ssh](https://leetcode-cn.com/u/ssh-2/)
 
 **Languages and Tools:**  
 
